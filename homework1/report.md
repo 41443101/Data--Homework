@@ -226,7 +226,7 @@ $ ./a_stack
 - **push**：`st[top++] = x`
 - **pop**：`st[--top]`
 - **判斷是否為空**：只需檢查 `top == 0
-- 
+  
 ### 陣列堆疊和 STL stack 的比較
 
 | 項目 | 自己用陣列做 | STL 的 stack |
